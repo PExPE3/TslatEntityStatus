@@ -52,6 +52,6 @@
   "config.tes.particle.scale": "パーティクルのサイズ",
   "config.tes.particle.verbal": "テキストで表示する体力パーティクル",
   "config.tes.particle.verbal.fullHeal": "完全回復！",
-  "config.tes.particle.verbal.instakill": "瞬殺！",
+  "config.tes.particle.verbal.instakill": "インスタキル！",
   "config.tes.particle.verbal.teamColours": "チームカラーに応じたダメージパーティクル"
 }
